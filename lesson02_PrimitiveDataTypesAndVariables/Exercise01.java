@@ -1,17 +1,7 @@
 package lesson02_PrimitiveDataTypesAndVariables;
 
 public class Exercise01 {
-
-	/** 
-	 * @author Orliin
-	 * 
-	 * Task:
-	 * Declare five variables choosing for each of
-	 * them the most appropriate of the types byte,
-	 * sbyte, short, ushort, int, uint, long, ulong to
-	 * represent the following values: 52130, -115,
-	 * 4825932, 97, -10000
-	 **/
+	//"test"
 	
 	public static void main(String[] args) {
 		int var1;
